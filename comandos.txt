@@ -1,0 +1,9 @@
+
+## Para cambiar el nombre del branch pricipal  
+git branch -M main
+
+## Configuramos una direccion remota para nuestro repositorio local
+git remote add origin https://github.com/aracelipujol/2026_UTN_PWI_ARACELI_TEST_REPOSITORIO.git
+
+## Enviar el codigo a la direccion remota
+git push -u origin main
